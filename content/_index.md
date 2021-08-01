@@ -1,5 +1,16 @@
 ---
-title: "First hugo post"
-description: "The last theme you'll ever need. Maybe."
+title: "Husite"
+description: "Celebrating the amazing technology of this programming era"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+
+Welcome to my site!  **Here be dragons!**
+
+## About me
+
+I am an aspiring full-stack dev with a passion for the command line.
+
+## My previous work
+
+- [My Github](https://github.com/awsomesawce)
+- [scripts-pwsh](https://github.com/awsomesawce/scripts-pwsh)
+- [my-dotfiles](https://github.com/awsomesawce/my-dotfiles)
