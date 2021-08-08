@@ -28,6 +28,7 @@ Here are a few of these base types:
 - `[boolean]`
 - `[bool]`
 - `[psvariable]`
+- `[double]`
 
 ### Filesystem classes
 
